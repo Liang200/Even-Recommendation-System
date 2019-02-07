@@ -5,12 +5,16 @@
 * Created Java servlets with REST APIs to handle HTTP requests and responses.
 * Used MySQL to store real business data (price, location, category, etc.) and migrated to NoSQL database (MongoDB) for better scalability.
 * Deployed to Amazon EC2 to handle 150 QPS (tested by Apache JMeter).
-
+## Project Structure
+![](https://github.com/Liang200/Even-Recommendation-System/blob/master/Jupiter%20readme%20image/Achitecture.png)
 ## Built With
 * __Apache Tomcat__
 * __AJAX__
 * __MySQL , MongoDB__
 * __AWS EC2__
+
+## Data Base
+![](https://github.com/Liang200/Even-Recommendation-System/blob/master/Jupiter%20readme%20image/SQLtable.png)
 # Demo 
 ![](demo2.gif)
 
@@ -23,6 +27,8 @@
 ![](https://github.com/Liang200/Even-Recommendation-System/blob/master/Jupiter%20readme%20image/1000users.png)
 ### 5000 users
 ![](https://github.com/Liang200/Even-Recommendation-System/blob/master/Jupiter%20readme%20image/5000users.png)
+
+
 
 
 
